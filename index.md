@@ -16,6 +16,6 @@ Remember, *The Power is within YOU!!*
 <br/><br/>
 
 
-Cheers!
+**Cheers!**
 
-Dip.
+**Dip.**
