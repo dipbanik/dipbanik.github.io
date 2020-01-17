@@ -12,7 +12,8 @@ Here's the link to my other blog where I scribble some thoughts.
 
 
 
-Remember, *The Power is within YOU!!*
+Remember, *The Power is within YOU!!* 
+<br/><br/>
 
 
 Cheers!
