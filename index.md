@@ -2,7 +2,7 @@
 
 
 Hello and welcome to my blog. 
-I have created this blog to share my experience with AI/ML and IT in general.
+This blog is my attempt to share my experience on AI/ML and CS with everyone.
 Hope we learn something today!
 
 
@@ -12,9 +12,9 @@ Here's the link to my other blog where I scribble some thoughts.
 
 
 
-Remember, *The power is within YOU!!*
+Remember, *The Power is within YOU!!*
 
 
 Cheers!
 
-Diptangshu Banik. (Dip)
+Dip.
