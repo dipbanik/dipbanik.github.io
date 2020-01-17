@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Machine Learning Expert at CGI Inc.
+_Let's build a community which we all can contribute towards!_
 
+
+Cheers!!
