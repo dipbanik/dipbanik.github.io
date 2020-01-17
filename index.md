@@ -2,7 +2,7 @@
 
 
 Hello and welcome to my blog. 
-I have created this blog separately to share my eperience with AI/ML and IT in general.
+I have created this blog to share my experience with AI/ML and IT in general.
 Hope we learn something today!
 
 
